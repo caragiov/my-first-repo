@@ -1,2 +1,2 @@
-# my-first-repo<<<<<<< branch1
+# my-first-repo
 Hello World, how are you, why
